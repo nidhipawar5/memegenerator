@@ -13,6 +13,6 @@ Built using Reactjs
 1.Clone this repository locally.\
 2.Run "npm install"\
 3.Run "npm start"\
-The app will be up and running on your localhost.\
+The app will be up and running on your localhost.
 
 Any suggestions, contributions, pull requests are welcomed!
